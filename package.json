@@ -1,10 +1,10 @@
 {
   "name": "rbel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "allows to define custom elements for hyperx, defaulting to your h function of choice",
   "main": "index.js",
   "license": "BSD",
   "dependencies": {
-    "hyperx": "^2.3.0"
+    "hyperx": "^2.3.1"
   }
 }
